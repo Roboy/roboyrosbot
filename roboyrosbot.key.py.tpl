@@ -1,0 +1,1 @@
+TOKEN = "replace_me_with_key_and_remove_.tpl_file_ending"
